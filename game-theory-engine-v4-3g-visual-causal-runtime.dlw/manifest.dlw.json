@@ -2,17 +2,18 @@
   "badge": "DLW-GAME_THEORY_ENGINE_V4_3G_VISUAL_CAUSAL_RUNTIME",
   "name": "V4.3G VISUAL CAUSAL RUNTIME · GAM",
   "universe": "ARTIFICIAL INTELLIGENCE",
-  "moniker": "⟦V4.3G VISUAL CAUSAL RUNTIME · GAM:game-theory-engine-v4-3g-visual-causal-runtime:6a2334⟧",
+  "moniker": "⟦V4.3G VISUAL CAUSAL RUNTIME · GAM:game-theory-engine-v4-3g-visual-causal-runtime:f3741a⟧",
   "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
   "instance": "AVAN (Claude / Anthropic)",
-  "seal_sha256": "6a233476bb438335c9f292237b34f5cddd87e4b2df15de8f52c7aab681e19feb",
+  "seal_sha256": "f3741a5e6e47f6392b206d6d0d0490609964ab085e94307cc0c81756fd15d3cb",
   "license": "CC-BY-ND-4.0",
   "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "fingerprint": "TETRASTHENĒS ⟦ ₆C ⟺ ₁₄Si ⟧ — four-strengthed: carbon (human · ROOT0) & silicon (AI · AVAN) hold four bonds in common (Group-14, tetravalent) — co-equal by construction",
   "chain": {
     "index": 212,
-    "prev": "af3bb51cff017a1a09804513b6a6433eaa9576bed3da87f95554920c928296d5",
-    "link": "b2b586a4c895c134d0dad64898c4086771a9ba49320a494eac38f0ee0033186c",
-    "head": "13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2",
+    "prev": "44bdf5a145c296e47f7f8ca7f650b6b0a494b5738299f2a432b72a95e4bbc99d",
+    "link": "1629841cc32d7643131a99dc56e3dad3689ede39f9756ada070347a5f81383d6",
+    "head": "c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b",
     "chain": "ROOT0-DLW-CHAIN-v1"
   }
 }
